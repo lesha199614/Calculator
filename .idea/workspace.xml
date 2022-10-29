@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b17216d-7f80-4b6e-a80a-ef43883cabdd" name="Changes" comment="calc">
-      <change beforePath="$PROJECT_DIR$/src/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calc.java" afterDir="false" />
+    <list default="true" id="5b17216d-7f80-4b6e-a80a-ef43883cabdd" name="Changes" comment="Branch for check">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calc" />
@@ -62,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666722677516</updated>
-      <workItem from="1666722679695" duration="1172000" />
+      <workItem from="1666722679695" duration="1515000" />
+      <workItem from="1666888526460" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="construction">
       <created>1666722973777</created>
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666723462979</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Branch for check">
+      <created>1666723885710</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666723885710</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="construction" />
     <MESSAGE value="calc" />
-    <option name="LAST_COMMIT_MESSAGE" value="calc" />
+    <MESSAGE value="Branch for check" />
+    <option name="LAST_COMMIT_MESSAGE" value="Branch for check" />
   </component>
 </project>
